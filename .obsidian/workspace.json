@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNote/paper閱讀與整理資訊/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+                "file": "MyNote/paper reading/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNote/paper閱讀與整理資訊/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+                "file": "MyNote/paper reading/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNote/paper閱讀與整理資訊/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+                "file": "MyNote/paper reading/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNote/paper閱讀與整理資訊/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md"
+                "file": "MyNote/paper reading/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "4822605539c75eeb",
+  "active": "76adebc7733c0845",
   "lastOpenFiles": [
     "MyNote/README.md",
-    "MyNote/paper閱讀與整理資訊/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+    "MyNote/paper reading/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
     "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md",
-    "MyNote/paper閱讀與整理資訊"
+    "MyNote/paper reading"
   ]
 }
