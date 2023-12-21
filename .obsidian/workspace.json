@@ -11,8 +11,12 @@
             "id": "4822605539c75eeb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "76adebc7733c0845",
+  "active": "4822605539c75eeb",
   "lastOpenFiles": [
     "MyNote/paper閱讀與整理資訊"
   ]
