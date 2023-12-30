@@ -23,9 +23,11 @@
             "id": "c81eb50a6f5081e8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
