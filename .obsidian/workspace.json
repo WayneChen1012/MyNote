@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66221d2fbcca07bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyNote/2023/語法/obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,8 +160,10 @@
   },
   "active": "4822605539c75eeb",
   "lastOpenFiles": [
-    "MyNote/TOEIC準備/文法/現在簡單式.md",
+    "MyNote/2023/語法/obsidian.md",
     "MyNote/TOEIC準備/文法/假設語態.md",
+    "MyNote/2023/語法/Markdown.md",
+    "MyNote/TOEIC準備/文法/現在簡單式.md",
     "MyNote/TOEIC準備/閱讀/office test 1.md",
     "MyNote/TOEIC準備/閱讀/attachments/OFFICIAL TEST 1 allANS.jpg",
     "MyNote/TOEIC準備/閱讀/attachments/OFFICIAL TEST 1.pdf",
