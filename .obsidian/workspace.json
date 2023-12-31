@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c81eb50a6f5081e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+                "file": "MyNote/TOEIC準備/文法/現在簡單式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+                "file": "MyNote/TOEIC準備/文法/現在簡單式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+                "file": "MyNote/TOEIC準備/文法/現在簡單式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md"
+                "file": "MyNote/TOEIC準備/文法/現在簡單式.md"
               }
             }
           }
@@ -159,14 +146,21 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c81eb50a6f5081e8",
+  "active": "76adebc7733c0845",
   "lastOpenFiles": [
+    "MyNote/TOEIC準備/聽力",
+    "MyNote/TOEIC準備/閱讀",
+    "MyNote/README.md",
+    "MyNote/TOEIC準備/文法/現在簡單式.md",
+    "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+    "MyNote/TOEIC準備/文法",
+    "MyNote/2023/Matlab/矩陣;陣列/一般情況下,.md",
+    "MyNote/TOEIC準備/未命名.md",
+    "MyNote/TOEIC準備",
     "MyNote/TEST",
     "MyNote/paper/attachments/Fast-Racing_An_Open-Source_Strong_Baseline_for_mathrmSE3_Planning_in_Autonomous_Drone_Racing.pdf",
     "MyNote/paper/attachments",
     "MyNote/MyNote",
-    "MyNote/README.md",
-    "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
     "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md",
     "MyNote/paper"
   ]
