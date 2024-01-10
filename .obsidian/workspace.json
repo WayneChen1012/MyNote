@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNote/TOEIC準備/文法/假設語態.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66221d2fbcca07bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyNote/2023/語法/obsidian.md",
+                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNote/TOEIC準備/文法/假設語態.md",
+                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNote/TOEIC準備/文法/假設語態.md",
+                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNote/TOEIC準備/文法/假設語態.md"
+                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md"
               }
             }
           }
@@ -160,12 +148,17 @@
   },
   "active": "4822605539c75eeb",
   "lastOpenFiles": [
+    "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
+    "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+    "MyNote/paper/attachments/Thesis - ZhepeiWang - Chinese - A Geometrical Approach to Multicopter Motion Planning.pdf",
+    "MyNote/研究/微分平坦Differential Flatness.md",
+    "MyNote/2023/語法/obsidian.md",
+    "MyNote/TOEIC準備/文法/假設語態.md",
+    "MyNote/研究",
     "MyNote/TOEIC準備/文法/attachments/Pasted image 20231231165905.png",
     "MyNote/TOEIC準備/文法/attachments/Pasted image 20231231165711.png",
     "MyNote/TOEIC準備/文法/attachments/Pasted image 20231231165026.png",
-    "MyNote/TOEIC準備/文法/假設語態.md",
     "MyNote/TOEIC準備/文法/attachments",
-    "MyNote/2023/語法/obsidian.md",
     "MyNote/2023/語法/Markdown.md",
     "MyNote/TOEIC準備/文法/現在簡單式.md",
     "MyNote/TOEIC準備/閱讀/office test 1.md",
@@ -175,14 +168,11 @@
     "MyNote/TOEIC準備/聽力",
     "MyNote/TOEIC準備/閱讀",
     "MyNote/README.md",
-    "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
     "MyNote/TOEIC準備/文法",
     "MyNote/2023/Matlab/矩陣;陣列/一般情況下,.md",
     "MyNote/TOEIC準備/未命名.md",
     "MyNote/TOEIC準備",
     "MyNote/TEST",
-    "MyNote/paper/attachments/Fast-Racing_An_Open-Source_Strong_Baseline_for_mathrmSE3_Planning_in_Autonomous_Drone_Racing.pdf",
-    "MyNote/paper/attachments",
     "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md"
   ]
 }
