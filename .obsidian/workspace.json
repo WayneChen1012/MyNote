@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+                "file": "MyNote/TOEIC準備/片語/be sick of.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+                "file": "MyNote/TOEIC準備/片語/be sick of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+                "file": "MyNote/TOEIC準備/片語/be sick of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md"
+                "file": "MyNote/TOEIC準備/片語/be sick of.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4822605539c75eeb",
   "lastOpenFiles": [
-    "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
     "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+    "MyNote/TOEIC準備/片語/be sick of.md",
+    "MyNote/TOEIC準備/片語",
+    "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
     "MyNote/paper/attachments/Thesis - ZhepeiWang - Chinese - A Geometrical Approach to Multicopter Motion Planning.pdf",
     "MyNote/研究/微分平坦Differential Flatness.md",
     "MyNote/2023/語法/obsidian.md",
@@ -172,7 +174,6 @@
     "MyNote/2023/Matlab/矩陣;陣列/一般情況下,.md",
     "MyNote/TOEIC準備/未命名.md",
     "MyNote/TOEIC準備",
-    "MyNote/TEST",
     "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md"
   ]
 }
