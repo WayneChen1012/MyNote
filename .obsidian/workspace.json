@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+                "file": "MyNote/paper/雙迴路廻授線性化四旋翼飛行器之軌跡追蹤控制與最佳路徑規劃.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9cdd4c97ec3b4ac",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+                "file": "MyNote/paper/雙迴路廻授線性化四旋翼飛行器之軌跡追蹤控制與最佳路徑規劃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+                "file": "MyNote/paper/雙迴路廻授線性化四旋翼飛行器之軌跡追蹤控制與最佳路徑規劃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md"
+                "file": "MyNote/paper/雙迴路廻授線性化四旋翼飛行器之軌跡追蹤控制與最佳路徑規劃.md"
               }
             }
           }
@@ -157,11 +146,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f9cdd4c97ec3b4ac",
+  "active": "57ba4239e76a09c4",
   "lastOpenFiles": [
     "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
-    "MyNote/paper/雙迴路廻授線性化四旋翼飛行器之軌跡追蹤控制與最佳路徑規劃.md",
     "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+    "MyNote/paper/雙迴路廻授線性化四旋翼飛行器之軌跡追蹤控制與最佳路徑規劃.md",
     "MyNote/2023/智慧型控制系統-余國瑞老師講授/智慧型控制系統緒論.md",
     "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/梯度下降法Gradient Descent Method.md",
     "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md",
