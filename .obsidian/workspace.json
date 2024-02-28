@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "4b7b9b20a01f28e3",
+        "id": "8566a305cc32fb98",
         "type": "tabs",
         "children": [
           {
-            "id": "4822605539c75eeb",
+            "id": "57ba4239e76a09c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNote/TOEIC準備/片語/get caught up.md",
+                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9cdd4c97ec3b4ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#paper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNote/TOEIC準備/片語/get caught up.md",
+                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNote/TOEIC準備/片語/get caught up.md",
+                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNote/TOEIC準備/片語/get caught up.md"
+                "file": "MyNote/paper/多旋翼无人机运动规划的几何方法.md"
               }
             }
           }
@@ -146,16 +157,21 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "4822605539c75eeb",
+  "active": "f9cdd4c97ec3b4ac",
   "lastOpenFiles": [
-    "MyNote/TOEIC準備/片語/draw back.md",
-    "MyNote/TOEIC準備/片語/get caught up.md",
-    "MyNote/TOEIC準備/片語/be sick of.md",
-    "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
-    "MyNote/TOEIC準備/片語",
     "MyNote/paper/Fast Racing An Open Source Strong Baseline for SE(3) Planning in Autonomous Drone Racing.md",
-    "MyNote/paper/attachments/Thesis - ZhepeiWang - Chinese - A Geometrical Approach to Multicopter Motion Planning.pdf",
+    "MyNote/paper/雙迴路廻授線性化四旋翼飛行器之軌跡追蹤控制與最佳路徑規劃.md",
+    "MyNote/paper/多旋翼无人机运动规划的几何方法.md",
+    "MyNote/2023/智慧型控制系統-余國瑞老師講授/智慧型控制系統緒論.md",
+    "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/梯度下降法Gradient Descent Method.md",
+    "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md",
+    "MyNote/paper/attachments/Fast-Racing_An_Open-Source_Strong_Baseline_for_mathrmSE3_Planning_in_Autonomous_Drone_Racing.pdf",
     "MyNote/研究/微分平坦Differential Flatness.md",
+    "MyNote/TOEIC準備/片語/get caught up.md",
+    "MyNote/TOEIC準備/片語/draw back.md",
+    "MyNote/TOEIC準備/片語/be sick of.md",
+    "MyNote/TOEIC準備/片語",
+    "MyNote/paper/attachments/Thesis - ZhepeiWang - Chinese - A Geometrical Approach to Multicopter Motion Planning.pdf",
     "MyNote/2023/語法/obsidian.md",
     "MyNote/TOEIC準備/文法/假設語態.md",
     "MyNote/研究",
@@ -174,8 +190,6 @@
     "MyNote/README.md",
     "MyNote/TOEIC準備/文法",
     "MyNote/2023/Matlab/矩陣;陣列/一般情況下,.md",
-    "MyNote/TOEIC準備/未命名.md",
-    "MyNote/TOEIC準備",
-    "MyNote/2023/智慧型控制系統-余國瑞老師講授/二進為基因演算法/基因演算法特性.md"
+    "MyNote/TOEIC準備/未命名.md"
   ]
 }
